@@ -1,0 +1,3 @@
+This text file is used to test the hash checker tool.
+
+I have changed the file.
